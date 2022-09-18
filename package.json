@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/geolocation": "^3.0.1",
     "expo": "~46.0.9",
+    "expo-speech": "~10.3.0",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.5"
+    "react-native": "0.69.5",
+    "react-native-tts": "^4.1.0",
+    "react-native-web": "~0.18.7",
+    "react-native-webview": "^11.23.1",
+    "react-webcam": "^7.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
